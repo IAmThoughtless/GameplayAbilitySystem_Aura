@@ -1,7 +1,7 @@
 // IAmThoughtless Copyright
 
 
-#include "UI/UserWidget/AuraUserWidget.h"
+#include "UI/Widget/AuraUserWidget.h"
 
 void UAuraUserWidget::SetWidgetController(UObject* InWidgetController)
 {
